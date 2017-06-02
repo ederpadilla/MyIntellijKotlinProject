@@ -9,7 +9,11 @@ fun main (args : Array<String>){
     print("La suma es ${z} y aqui el valor de x es $x")
 
     var m = x+++y;// esto es valido como una suma
-    print("\nEl valor de x que se sumara es $x y la suma es $m")
+    print("\nEl valor de x que se sumara es $x y la suma es $m\n")
+
+    var i = 5
+    println(i++)//el incremento no se va a mostrar en este print
+    print(i--)//el decremento no se va a mostrar en este print
 
 
 }
