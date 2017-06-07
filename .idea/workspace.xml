@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="53f8ebff-5395-405b-96dd-72a5630ef565" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/User.kt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/My Intellij Kotlin Project/FirstAppKt.class" afterPath="$PROJECT_DIR$/out/production/My Intellij Kotlin Project/FirstAppKt.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/FirstApp.kt" afterPath="$PROJECT_DIR$/src/FirstApp.kt" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
